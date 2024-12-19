@@ -1,2 +1,2 @@
 # Property-Manager
-Property manager
+Work on basic logic for server side property manager
